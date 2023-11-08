@@ -1,0 +1,19 @@
+{
+  "name": "project-demo",
+  "version": "1.0.0",
+  "description": "app.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.41.0",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  
+  "author": "shashika",
+  "license": "ISC"
+}
